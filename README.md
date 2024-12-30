@@ -9,3 +9,10 @@
 
 ## How Random forest works
 > Many predictions are made from each tree say about different 500 predictions are made, nut the final outcome takes the average of all 500 predictions to produce the final one outcome result.
+
+## Advantages of Random Forest
+> + Robustness to Overfitting: Reduces overfitting by averaging predictions from multiple trees.
+> + Handles Non-linear Relationships: Decision trees in the forest can capture complex patterns in the data.
+> + Feature Importance: Provides a measure of feature importance, helping with feature selection.
+> + Handles Missing Data: Can handle datasets with missing values effectively.
+
